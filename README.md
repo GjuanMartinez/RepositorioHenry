@@ -1,2 +1,3 @@
-# RepositorioHenry
-Este Repositorio es del ejercicio N1 del modulo 2 del PrepCourse
+Este Repositorio es del modulo2 ejercicio1 del PrepCourse Henry
+
+
